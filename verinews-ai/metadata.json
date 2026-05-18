@@ -1,0 +1,5 @@
+{
+  "name": "VeriNews AI",
+  "description": "A clean, minimal platform that aggregates global and Indian news, verifies authenticity using AI-based cross-source analysis, and provides transparency through authenticity scores.",
+  "requestFramePermissions": []
+}
